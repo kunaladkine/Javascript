@@ -1,0 +1,5 @@
+javascript is programming language use in programmig 
+we will use the js file by in html and script tag in index.
+or index.js  files created . 
+it is browser language, backend language.
+Node Js is a environment for js.
